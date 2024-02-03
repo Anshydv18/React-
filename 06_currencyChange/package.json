@@ -1,5 +1,5 @@
 {
-  "name": "06_concurrency",
+  "name": "06-currencychange",
   "private": true,
   "version": "0.0.0",
   "type": "module",
